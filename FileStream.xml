@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<container name="STDINFILE">
+        <content when="now" get="self">$1</content>
+    </container>
